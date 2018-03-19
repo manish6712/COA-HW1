@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CpuSimulator_HW1_Reference1/CpuSimulator_Reference/src"/>
+	<classpathentry kind="output" path="CpuSimulator_HW1_Reference1/bin"/>
+</classpath>
