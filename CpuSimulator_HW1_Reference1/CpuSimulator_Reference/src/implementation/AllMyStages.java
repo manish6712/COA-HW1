@@ -448,7 +448,7 @@ public class AllMyStages {
                 
                 // Invalidate the requested register
                 reginval[register_to_invalidate] = true;
-                // Clear the signal
+                // Clear th'e signal
                 register_to_invalidate = -1;
                 
                 // Here's why we invalidate the destination register here:

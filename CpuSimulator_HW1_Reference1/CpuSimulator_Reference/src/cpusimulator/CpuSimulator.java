@@ -29,5 +29,6 @@ public class CpuSimulator {
         MyCpuCore core = new MyCpuCore();
         core.loadProgram(seq);
         core.runProgram();
+        
     }    
 }
